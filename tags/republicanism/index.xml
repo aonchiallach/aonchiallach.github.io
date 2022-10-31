@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Republicanism on The Condition of the Republic</title>
+    <title>republicanism on The Condition of the Republic</title>
     <link>https://aonchiallach.github.io/tags/republicanism/</link>
-    <description>Recent content in Republicanism on The Condition of the Republic</description>
+    <description>Recent content in republicanism on The Condition of the Republic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 18 Apr 2022 23:01:00 +0000</lastBuildDate><atom:link href="https://aonchiallach.github.io/tags/republicanism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 23:01:00 +0000</lastBuildDate><atom:link href="https://aonchiallach.github.io/tags/republicanism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Three Stages of the Irish Revolution</title>
       <link>https://aonchiallach.github.io/posts/irish_revolution/</link>
-      <pubDate>Mon, 18 Apr 2022 23:01:00 +0000</pubDate>
+      <pubDate>Mon, 11 Apr 2022 23:01:00 +0000</pubDate>
       
       <guid>https://aonchiallach.github.io/posts/irish_revolution/</guid>
       <description>Prelude to the Rising
 Thomas Clarke was born in 1858 to an Irish family living in Hampshire in England. His father was in the British army and was briefly stationed in South Africa before the family returned to Dungannon in County Tyrone, where Clarke became involved in the Irish Republican Brotherhood, a secret society founded by the Fenians in 1858 to advance the cause of Irish separatism. Imprisoned for fifteen years for his role in an incendiary bombing campaign in London, Clarke emigrated to the United States, where he re-founded the IRB with Patrick McCartan and Denis McCullough.</description>
+    </item>
+    
+    <item>
+      <title>Ireland in the New Left Review</title>
+      <link>https://aonchiallach.github.io/posts/ireland_nlr/</link>
+      <pubDate>Wed, 22 Dec 2021 23:01:00 +0000</pubDate>
+      
+      <guid>https://aonchiallach.github.io/posts/ireland_nlr/</guid>
+      <description>For the sixty-odd years the New Left Review has been in existence, the country in which the overwhelming majority of its editorial staff and stable of regular contributors were born, grew up and lived has maintained an occupation of six counties on the island of Ireland against the wishes of the Irish people. Irish resistance to partition, which reached an historic high point over a thirty-year period in the lifetime of the journal, became and has remained a rallying point for independence and national liberation movements from South Africa to Palestine.</description>
     </item>
     
   </channel>
