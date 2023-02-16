@@ -7,6 +7,7 @@ tags:
   - Revolution
   - Engels
 ---
+_(A cursory analysis of theories of revolution pre and post Marx. I was asked to write this for a general audience publication but it was spiked for eclecticism.)_
 
 Readers of Marx will know that his writings, on the levels of their content, topic and style, can be separated into two distinct categories. First, the polemical journalism marshalling a broad swathe of human history and social change within highly quotable, almost literary turns of phrase, second, the more abstract, scientific (possibly less enjoyable but no less necessary) critiques of political economy. 
 
