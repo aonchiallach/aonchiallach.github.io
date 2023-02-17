@@ -40,8 +40,8 @@ Paginate = 10
     weight = 10
 
 [[menu.main]]
-    name = "Podcasts"
-    url = "podcasts"
+    name = "Podcast"
+    url = "podcast"
     weight = 10
 
   [[menu.main]]
