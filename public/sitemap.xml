@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aonchiallach.github.io/tags/casement/</loc>
+    <lastmod>2023-04-08T09:11:00+00:00</lastmod>
+  </url><url>
     <loc>https://aonchiallach.github.io/tags/ireland/</loc>
-    <lastmod>2023-02-16T20:50:00+00:00</lastmod>
+    <lastmod>2023-04-08T09:11:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aonchiallach.github.io/posts/</loc>
+    <lastmod>2023-04-08T09:11:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aonchiallach.github.io/posts/casement/</loc>
+    <lastmod>2023-04-08T09:11:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aonchiallach.github.io/tags/shaw/</loc>
+    <lastmod>2023-04-08T09:11:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aonchiallach.github.io/tags/</loc>
+    <lastmod>2023-04-08T09:11:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aonchiallach.github.io/</loc>
+    <lastmod>2023-04-08T09:11:00+00:00</lastmod>
   </url><url>
     <loc>https://aonchiallach.github.io/tags/marxism/</loc>
     <lastmod>2023-02-16T20:50:00+00:00</lastmod>
   </url><url>
     <loc>https://aonchiallach.github.io/tags/nairn/</loc>
-    <lastmod>2023-02-16T20:50:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aonchiallach.github.io/posts/</loc>
-    <lastmod>2023-02-16T20:50:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aonchiallach.github.io/tags/</loc>
-    <lastmod>2023-02-16T20:50:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aonchiallach.github.io/</loc>
     <lastmod>2023-02-16T20:50:00+00:00</lastmod>
   </url><url>
     <loc>https://aonchiallach.github.io/posts/nairn/</loc>
@@ -168,9 +177,6 @@
     <lastmod>2016-08-15T23:01:00+00:00</lastmod>
   </url><url>
     <loc>https://aonchiallach.github.io/tags/drama/</loc>
-    <lastmod>2016-08-15T23:01:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aonchiallach.github.io/posts/moran_beckett-copy/</loc>
     <lastmod>2016-08-15T23:01:00+00:00</lastmod>
   </url><url>
     <loc>https://aonchiallach.github.io/posts/moran_beckett/</loc>
