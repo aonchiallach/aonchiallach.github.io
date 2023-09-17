@@ -1,6 +1,6 @@
 ---
-title: "Roger Casement's Speech from the Dock"
-date: 2023-04-09T20:50:00Z
+title: "George Bernard Shaw's Defense of Roger Casement"
+date: 2023-04-08T09:11:00Z
 draft: false
 tags:
   - Casement
@@ -9,9 +9,9 @@ tags:
 ---
 _On 21 April 1916 a German submarine put Roger Casement ashore at Banna Strand in Tralee Bay, County Kerry. For his efforts to procure German arms for the Easter Rising, which would take place three days later, he was arrested on charges of high treason, sabotage and espionage against the Crown._
 
-_Casement's trial opened at the Royal Courts of Justice on 26 June 1916. He was found guilty and sentenced to death. He was hanged and died at the age of 51, one of the sixteen men executed for their attempts to free their country from the yoke of an occupying force._
+_Casement's trial opened at the Royal Courts of Justice on 26 June 1916. He was found guilty and hanged, one of sixteen Irish men executed in the immediate aftermath of the Rising for their attempts to free their country from the most powerful Empire on the face of the earth._
 
-_The Irish playwright George Bernard Shaw, attempted to recommend to Casement that he abandon a traditional legal defense and instead appeal directly to the jury on the basis of his Irish nationality and wrote a speech for him to this end. Casement did not adopt the strategy and his speech was not delivered in the course of the case. As I can't find it the text of it anywhere online, I've transcribed it and it appears here in an edited form._
+_The Irish playwright George Bernard Shaw, recommended to Casement that he abandon a traditional legal defense, appeal directly to the jury on the basis of Ireland's claim to sovereign nationhood, and wrote a speech for him to this end. Casement did not adopt the strategy and Shaw's speech was not delivered in the course of the case. As I can't find it the text of it anywhere online, I've transcribed it. It appears here, any edits are those present in the source and are not my own._
 
 Gentlemen of the jury I plead not guilty to the charge of high treason.  But I ask you not to take this as a denial of the essential facts relied on by the Crown. What I deny rather, is that any guilt attaches to those facts. I have spared you the tedium of calling witnesses to prove facts which I do not dispute, and of which I am not ashamed. Indeed, rather than seeking to repudiate the Crown’s case, I embrace it.
 
