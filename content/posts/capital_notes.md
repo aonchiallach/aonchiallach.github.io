@@ -10,37 +10,37 @@ tags:
 
 _[All page references refer to the unabridged Penguin Edition]_
 
-**Chapter One: Commodities**
+*Chapter One: Commodities*
 
 **The Two Factors of the Commodity**
 
 *125* The capitalist economy consists of commodities. A commodity is an object of consumption or of production. It satisfies a need and this need is referred to as the commodity’s use-value.
 
-_[126 Footnote cites Locke ‘The natural worth of anything consists in its fitness to supply the necessities, or serve the conveniences of human life’._
+_[126 Footnote cites Locke ‘The natural worth of anything consists in its fitness to supply the necessities, or serve the conveniences of human life’]_
 
-_Funny sidebar: ‘In English writers of the seventeenth century we still often find the word ‘worth’ used for use-value and ‘value’ for exchange value. This is quite in accordance with the spirit of a language that likes to use a Teutonic word for the actual thing, and a Romance word for its reflection’.]_
+_[Funny sidebar: ‘In English writers of the seventeenth century we still often find the word ‘worth’ used for use-value and ‘value’ for exchange value. This is quite in accordance with the spirit of a language that likes to use a Teutonic word for the actual thing, and a Romance word for its reflection’.]_
 
-Where these needs arise from is a broader social question but use-value is also in the physical thing itself; it has a real existence and the use is realised in the commodity’s consumption whereas the thing-ness of the commodity is the bearer of its exchange-value.
+Where these needs arise from is a broader social question but use-value is also in the physical thing itself; it has a real existence and the use is realised in the commodity’s consumption whereas the _thing_-ness of the commodity is the bearer of its exchange-value.
 
-_[Footnote: ‘In bourgeois society the legal fiction prevails that each person, as a buyer, has an encyclopaedic knowledge of commodities’.]_
+_[Footnote: ‘In bourgeois society the legal fiction prevails that each person, as a buyer, has an encyclopedic knowledge of commodities’.]_
 
 *127* Exchange-value renders a commodity commensurate, makes it possible to compare and conflate it with other things and have it move around in exchange for those things. So a given commodity, e.g. wheat ‘has many exchange values instead of one’. So we might say 1 corn = x iron and x wool and x coal etc.
 
-This exchange value is an abstraction, it expresses use value at a level beyond the mere commodity itself, it is quantitative.
+This exchange value is an abstraction. It expresses use value at a level beyond the mere commodity itself.
 
 *128* Use value is qualitative, it works at the point of consumption. If you’re hungry, cheese will do you while steel won’t. 
 
-Exchange value works at the point of quantity; if you’re hungry and you have steel you could exchange it for cheese, but these two functions are distinct. You can’t eat an exchange value or hammer it into a car.
+Exchange value is quantitative; if you’re hungry and you have steel you could exchange it for cheese, but these two functions are distinct. You can’t eat an exchange value or hammer it into a car.
 
-In order to penetrate into exchange value it is necessary to abstract from the commodity’s physicality. Considered from the perspective of exchange value, the commodity’s physical, tangible, sensuous aspects are evacuated. Viewed the perspective of exchange it’s not important that something is a table or a piece of yarn, more that it is an abstract incarnation of human labour.
+In order to understand exchange value it is necessary to ignore its physical, tangible and sensuous aspects. From an exchange perspective it is not important if something is a table or a piece of yarn.
 
-*129* And as this value is quantitative, the decisive unit is the amount of labour which ‘is measured by its duration…on the particular scale of hours, days, etc’.
+*129* And as this value is quantitative, the decisive unit is the amount of labour it contains which ‘is measured by its duration…on the particular scale of hours, days, etc’.
 
-This doesn’t mean that if a labourer takes six months to make a single shirt that shirt is worth millions, because while it is a quantitative measurement its also an abstract one; all human labour is considered here as a single homogenous mass. Labour-power, the magnitude of labour-power, is ‘a socially average unit of labour power and acts as such, i.e. only needs, in order to produce a commodity, the labour time which is necessary on average’. 
+This doesn’t mean that if a labourer takes six months to make a single shirt that shirt is worth millions, because while it is a quantitative measurement its also an abstract one; all human labour is considered here as a single homogeneous mass. Labour-power is ‘a socially average unit of labour power and acts as such, i.e. only needs, in order to produce a commodity, the labour time which is necessary on average’. 
 
-So there is an equilibrium which is called socially necessary labour-time. And this average is ‘the labour time required to produce any use-value under the conditions of production normal for a given society and with the average degree of skill and intensity of labour prevalent in that society’. 
+So there is an equilibrium which is called socially necessary labour-time. And this average is the labour time required to produce any use-value under conditions of production normal for a given society, i.e. with the average degree of skill and intensity of labour regnant within it.  
 
-The example Marx gives is English hand-loom weavers after the introduction of power-looms, which ‘reduced…by one half the labour required to convert a given quantity of yarn into woven fabric. In order to do this the English hand-loom weaver in fact needed the same amount of labour-time as before; but the product of his individual hour of labour now only represented half an hour of social labour, and consequently fell to one half its former value’. 
+For example, the introduction of power-looms in England reduced the labour required to convert a given quantity of yarn into woven fabric. It did not make the labour process itself shorter, but the product of an individual hour of labour now represented half an hour of social labour, and fell to one half its former value.
 
 _[Footnote in which Marx finds his theory anticipated in a document on Money written in the 1730’s]_
 
@@ -49,51 +49,45 @@ _[Footnote in which Marx finds his theory anticipated in a document on Money wri
 1. the worker’s average degree of skill
 2. the social organisation of the producers of production
 3. the extent and effectiveness of the means of production
-4. conditions found in the natural environment (e.g. the same quantity of labour is present in eight bushels of corn in favourable seasons and only four in unfavourable seasons, ‘the same quantity of labour provides more metal in rich mines than in poor’.)
+4. conditions found in the natural environment (e.g. the same quantity of labour is present in eight bushels of corn in favourable seasons and only four in unfavourable seasons and the same quantity of labour provides more metal in rich mines than in poor.)
 
-_131_ So there are enormous differences of context that dictate fluctuations in value: 
+_131_ The more productive labour is the less labour-time is required to produce an article, the less labour is crystallised in that article and the lower its value. 
 
-_‘In general, the greater their productivity of labour, the less the labour-time required to produce an article, the less the mass of labour crystallised in that article, and the less its value. The value of a  commodity, therefore, varies directly as the quantity, and inversely as the productivity, of the labour which finds its realisation within the commodity’._
+The value of a commodity therefore varies as the quantity and counter-intuitively the productivity of the labour which finds its realisation within the commodity. 
 
-A thing can be a use-value without being a value, i.e. directly obtained without mediation through exchange and the example is the peasant who farms for direct consumption of himself or his feudal lord: 
+A thing can be a use-value without being a value, i.e. directly obtained without mediation through exchange, e.g. the peasant who grows crops which are directly consumed by himself or his feudal lord.
 
-_‘Neither the corn-rent nor the corn-tithe became commodities simply by being produced for others. In order to become a commodity the product must be transferred to the other person, for whom it serves as a use-value, through the medium of exchange’._
+The corn received as rent-in-kind does not become a commodity just because it is produced for others. In order to become a commodity the product must be transferred to the other person, for whom it serves as a use-value, through exchange. 
 
 **2. The Dual Character of the Labour Embodied in Commodities**
 
 _132_ In a society based on commodity production, labour is necessarily divided.
 
-_133_ _‘in a society of commodity producers, this qualitative difference between the useful forms of labour which are carried on independently and privately by individual producers develops into a complex system, a social division of labour’._
+_133_ Before commodity production became dominant labour was a condition of human existence; clothes were made in antiquity, farming was divided in pre-historical agriculture.
 
-But labour was also a condition of human existence before commodities as defined above became dominant; clothes were made in antiquity, farming was divided in pre-historical agriculture.
-
-_137_ The between concrete versus abstract labour is introduced here; the former pertains to use value, the second to exchange.
+_137_ There is a difference between concrete and abstract labour; the former pertains to use value, the second to exchange.
 
 **3. The Value Form, or Exchange-Value**
 
-_138_ Commodities have both concrete and abstract traits, the natural hunger-satisfying aspects of cheese, the durability of steel, but also the fact of them containing crystallised labour power. 
-
-_141_ Once again it is this value form that allows commodities to become commensurate with one another.
+_138_ Commodities have both concrete and abstract traits. Cheese has hunger-satisfying aspects, steel is durable, but what links them together and renders them commensurate is their containing labour-power.
 
 _142_ Labour-power is not value in itself, it only becomes value once it is concretised in an objective form.
 
-_143 ‘As a use-value, the linen is something palpably different from the coat; as value, it is identical with the coat, and therefore looks like the coat. Thus the linen acquires a value-form different from its natural form. Its existence as value is manifested in its equality with the coat, just as the sheep-like nature of the Christian is shown in his resemblance to the Lamb of God’._
+_145_ As before this commensurability varies: the labour-time necessary for the production of 20 yards of linen or 1 coat varies with every influence in the productivity of the weaver or the tailor.
 
-_145_ As before this commensurability varies in context, _‘the labour-time necessary for the production of 20 yards of linen or 1 coat varies with every influence in the productivity of the weaver or the tailor’_
+_147 - 8_ As an equivalent *Commodity A* (the linen) imposes on *Commodity B* (the coat) a form of value particular to it. The linen brings into view its own existence as a value in the fact that it can be assumed as a form of value separate from its own physical being. 
 
-_147_ *Commodity A* (the linen) imposes on *Commodity B* a form of value particular to it, the equivalent. The linen brings into view its own existence as a value in the fact that it can be assumed as a form of value separate from its own physical being. In this way the commodity’s value is no longer qualitative but becomes relative,
+This commensurability makes it possible to compare the concrete or private labour in the linen with the abstract or social labour embodied in the coat.
 
-_148_ because a commodity can never express the magnitude of its own value. It needs that reflection in the form of a *Commodity B*.
+In this way the commodity’s value is no longer qualitative but becomes relative, because a commodity can never express the magnitude of its own value. It needs that reflection in the form of a *Commodity B*.
 
-_149_ Value is therefore social, it’s not something that can be measured independently, we can’t use this method to understand the amount of value in a single tyre or cheese-wheel taken outside of its context in the productive process.
-
-_150_ Another thing that commensurability makes possible, is the comparison of concrete or private labour in the linen with the abstract or social labour embodied in the coat.
+_149_ Value is therefore social, it’s not something that can be measured independently. We cannot understand the amount of value in a single tyre or cheese-wheel independently of the broader social productive process. 
 
 _151_ Section about how Aristotle could not think his way past market relations without this concept of value, so he couldn’t see that what every pair of commodities have in common is abstract labour.
 
-_153_ Examples of two schools of orthodox economists who only grapple with one side of value, whether quantitative or qualitative, and miss the actual phenomenon as a result.
+_153_ Examples of two schools of orthodox economists who only grapple with one side of value, whether quantitative or qualitative, and miss the dual character of the phenomenon as a result.
 
-_156_ There is no end to this process of comparison and exchange: _‘it follows that the relative form of value of each commodity is an endless series of expressions of value which are all different from the relative form of value of every other commodity’._
+_156_ The relative value of each commodity is an endless series of expressions of value which are all different from the relative form of value of every other commodity.
 
 _162_ The general form of value then gives way to the money form. 
 
@@ -101,43 +95,43 @@ _162_ The general form of value then gives way to the money form.
 
 _167_ This next step from value to money is a necessary extension because producers do not come into contact with one another on the market through barter, their purchases are mediated through the market. 
 
-_168_ It takes a long time and a certain amount of development before this market becomes a generalised law, before the production of commodities has become fully developed, but underneath this law, whose relations are obscured or reified because the way the market operates is not necessarily traceable _‘is therefore a secret hidden under the apparent movements in the relative values of commodities’._
+_168_ A fully-fledged market of commodity production develops over a long time-frame. 
 
-_169_ The reified character of these social relations find their expression in the self-evidently incorrect assertions put forward by orthodox political economists. 
+_169_ Its operations and relations are obscured or reified, which finds its expression in the incorrect and self-serving assertions put forward by orthodox political economists. 
 
 _[175 footnote: ‘the vulgar economists confine themselves to systematising in a pedantic way, and proclaiming for everlasting truths, the banal and complacent notions held by the bourgeois agents of production about their own world, which is to them the best possible one’, and he calls a few of these economists dwarfs and asses.]_
 
-_170_ Uses feudalism and the story of Robinson Crusoe (a novel written by Daniel Defoe and published in 1719 about a man who washes up on an island off the coast of Venezuela and establishes a ‘self-sufficient society’) in order to describe moments, whether historical or imagined, in which the trajectory of commodities, outputs of labour and / or agriculture are clear: _‘the social relations between individuals in the performance of their labour appear at all events as their own personal relations, and are not disguised as social relations between things, between the products of labour’._
+_170_ Uses feudalism and the story of _Robinson Crusoe_ (a 1719 novel written by Daniel Defoe about a man who washes up on an island off the coast of Venezuela and establishes a ‘self-sufficient society’) to describe moments, both historical or imagined, in which the trajectory of commodities, outputs of labour and / or agriculture are clear, as it appears as personal relations and not social relations between things.
 
-_171_ Rare, brief reference to what a communist society would look like:
+_171_ Reference to what a communist society would look like:
 
 _‘Let us finally imagine…an association of free men, working with the means of production held in common, and expending their many different forms of labour-power in full self-awareness as one single social labour force’._
 
-_172 - 176_ Just some fantastic riffs on political economy and Christianity.
+_172 - 176_ Class series of riffs on political economy and Christianity.
 
-**Chapter 2: The Process of Exchange**
+*Chapter 2: The Process of Exchange*
 
-_178_ Commodities cannot circulate by themselves,
-
-_179_ their buyers and sellers must encounter one another in the market as 'personifications of economic relations'
+_178 - 9_ Commodities cannot circulate by themselves, their buyers and sellers must encounter one another in the market as 'personifications of economic relations'
 
 For the seller, a commodity has no use-value, for the buyer it does. This changing of hands constitutes exchange.
 
 _181_ Money arises out of these requirements and further entrenches the separation between use-value and value. 
 
-_182 - 3_ Brief account of the historical roots of money, how it first arises among nomadic peoples because 'all their worldly possessions are in a movable and therefore directly alienable form, and because their mode of life, by continually bringing them into contact with foreign communities, encourages the exchange of products'.
+_182 - 3_ Brief account of the historical roots of money, how it first arises among nomadic peoples because their possessions are mobile and their form of life brings them into contact with other communities, encouraging the exchange of products. 
 
-_183_ In order to better service the needs of circulation in a modern society, the money-form assumes the shape of precious metals as these are naturally the commodities best fitted to 'perform the social function of a universal equivalent'
+_183_ In order to better service the needs of circulation in a modern society, the money-form assumes the shape of precious metals as these are the commodities best fitted to 'perform the social function of a universal equivalent.
 
 _184_ firstly because their 'every sample possesses the same uniform quantity' and secondly because they are divisible.
 
-_185_ Just because precious metals represent a symbol of value does not mean that they are unreal; they give witness to an actual social relationship, namely a series of exchanges which necessitate a common unit. As with commodities, precious metals exist on both the concrete and abstract levels: 'every commodity is a symbol, since, as value, it is only the material shell of the human labour expended on it'.
+_185_ Just because precious metals represent a symbol of value does not mean that they are unreal; they give witness to an actual social relationship, namely a series of exchanges which necessitate a common unit. 
 
-_186_ Money is also similar to the commodity in the sense that its value can only be expressed in other forms of itself, this value being determined 'by the labour-time required for its production...expressed in the quantity of any other commodity in which the same amount of labour-time is congealed'.
+As with commodities, precious metals exist on both the concrete and abstract levels: 'every commodity is a symbol, since, as value, it is only the material shell of the human labour expended on it'.
+
+_186_ Money is also similar to the commodity in the sense that its value can only be expressed in other forms of itself. This value is determined 'by the labour-time required for its production...expressed in the quantity of any other commodity in which the same amount of labour-time is congealed'.
 
 _187_ Once money has become a universal equivalent, human activity becomes increasingly atomised: 'Their own relations of production...assume a material shape which is independent of their control and their conscious individual action'.
 
-**Chapter 3: Money, or the Circulation of Commodities**
+*Chapter 3: Money, or the Circulation of Commodities*
 
 **1. The Measure of Values**
 
@@ -145,11 +139,11 @@ _188_ It is not just money that renders commodities commensurate, they already a
 
 _189_ But money does grant this equation of commodities a socially valid character, there is no longer any need for the 1 iron = 5 wheat because of money.
 
-_191_ Gold then becomes a universal measurement: 'in spite of the confusing variety of the commodities themselves, their values become magnitudes of the same denomination, gold-magnitudes'. 
+_191_ Gold then becomes a universal measurement. 
 
-_193_ Digression on how the price of money and the price of commodities are independent; one may rise and one may fall, both may rise or fall together.
+_193_ The price of money and the price of commodities are independent; one may rise and one may fall, both may rise or fall together.
 
-The terms originally assigned to specific amounts of precious metals (a 'pound' initially referred to a pound of silver) become autonomous over time because of:
+The terms originally assigned to specific amounts of precious metals (a 'pound' initially referred to a pound of silver) become autonomous over time because:
 
 1. the introduction of foreign coinage which develop different names
 2. the development of material wealth; copper edging out silver, edged out in turn by gold
@@ -159,11 +153,11 @@ _194_ In this way the nature of money has been reified beyond its actual functio
 
 _[One enduring controversy of Marxist economics and / or Marxology is known as the transformation problem, namely whether or not Marx provides us with a comprehensive account of how the abstract value of the commodity becomes a concrete price in a competitive marketplace. There are a number of comments in this chapter which pertain to this question so they will be signalled from this point on]_
 
-_196_ _Material on the Transformation Problem_
+_196_ _[Material on the Transformation Problem]_
 
-The magnitude of a commodity's value expresses the socially average labour-time required to produce it. When this commodity's value is realised, when it is sold, this appears as the exchange-ratio between a single commodity and the money-commodity.
+The magnitude of a commodity's value expresses the socially average labour-time required to produce it. When this commodity's value is realised in its sale this appears as the exchange-ratio between a single commodity and the money-commodity.
 
-This relation may express the magnitude of value and the greater or lesser quantity of money it can be sold for according to a particular set of circumstances. Therefore there is the possibility that there will be a disproportion between these two; in fact this asymmetry is fundamental to the price-form. 
+This relation may express the magnitude of value and the greater or lesser quantity of money it can be sold for according to a particular set of circumstances. Therefore there is the possibility that there will be a disproportion between these two; this asymmetry is fundamental to the price-form. 
 
 _'This is not a defect, but, on the contrary, it makes this form the adequate one for a mode of production whose laws can only assert themselves as blindly operating averages between constant irregularities'._
 
@@ -177,7 +171,7 @@ _198_ Great image regarding the nature of contradiction
 
 _'it is a contradiction to depict one body as constantly falling towards another and at the same time constantly flying away from it. The ellipse is a form of motion within which this contradiction is both realised and resolved'._
 
-This paradoxical occurrence within the mode of production known as capitalism is called the social metabolism.
+This is the social metabolism in the mode of production known as capitalism.
 
 _200_ We are given a simple, two-stage equation to express the process of exchange:
 
@@ -191,7 +185,7 @@ _Material on the Transformation Problem_
 
 _'We leave out of consideration here any possible subjective errors in calculation by the owner of the commodity, which will immediately be corrected objectively in the market. We suppose him to have spent only the average socially necessary quantity of labour time. The price of the commodity...is merely the money-name of the quantity of social labour objectified in it'._
 
-The articulation of this metamorphosis is however, not straightforward, it place in haphazard and spontaneous ways across the market, the sellers:
+The articulation of this metamorphosis is not straightforward it takes place in haphazard and spontaneous ways across the market, the sellers:
 
 _'find out that the same division of labour which turns them into private producers also makes the social process of production and the relations of the individual producers to each other...independent of the producers themselves'._
 
@@ -207,9 +201,7 @@ _209_ The independence of buyers and sellers may also assert themselves; this is
 
 _213_ As money and commodities always come into physical confrontation with each other, the amount of money that is required to facilitate their movement in exchange is equal to the sum of all prices. Since prices rise and fall, the amount of money required to move commodities around may also rise or fall. 
 
-_214_ More on price:
-
-_'one commodity infects another through their common value-relation, so that their prices, expressed in gold or silver, gradually settle down into the proportions determined by their comparative values, until finally the values of all commodities are estimated in terms of the new value of the monetary metal'._
+_214_ One commodity infects another through their common value-relation, so their prices gradually settle down into proportions determined by their comparative values until the values of all commodities are estimated in terms of the new value of the monetary metal.
 
 _216_ A decisive factor in this regard is the question of turnover:
 
@@ -285,13 +277,11 @@ When selling in order to buy, we aim at satisfying one's needs via consumption.
 
 When buying in order to sell our end and our beginning are the same: €100 -> €110, capital M -> M', this increase in capital becomes an end in itself.
 
-_253_ Footnote about how Aristotle's grasp of political economy represents the stage of economic development at which his society was at the time. Aristotle describes how trade was barter but as trade developed further money became necessary as the lubricant to facilitate transactions on a broader scale.
+_253_ Aristotle described how trade was barter but as trade developed further money became necessary as the lubricant to facilitate transactions on a broader scale.
 
-This creates a field separable from economics; chrematistics, which revolves around money as a beginning and end, and these, for Aristotle, are often confused.
+This creates a field separable from economics; chrematistics, which revolves around money as a beginning and end, and these, for Aristotle, are often confused, reflecting the stage of economic and social development his society had reached at the time. 
 
-_254_ The conscious bearer of this ovement is a capitalist. He is the person from whom money departs and to whom it returns.
-
-_'it is only in so far as the appropriation of ever more wealth in the abstract is the sole driving force behind his operations that he functions as a capitalist...Use-values must therefore never be treated as the immediate aim of the capitalist; nor must the profit on any single transaction. His aim is rather the unceasing movement of profit-making'._
+_254_ The conscious bearer of this movement is a capitalist. He is the person from whom money departs and to whom it returns. Use-value is unimportant for him, his immediate aim is profit, and not just profit on a single transaction, but a continuous and unceasing movement at profit-making.
 
 _255_ Money is both independent, becoming itself in abolishing itself, but is also the active subject.
 
@@ -299,11 +289,11 @@ _256_ This is a situation that does not just apply to merchant capital or trade 
 
 _257_ M-C-M' is the general form of capital.
 
-**Chapter 5: Contradictions in the General Formula**
+*Chapter 5: Contradictions in the General Formula*
 
 _258_ The two people involved on either pole of M-C-M' have no relationship with one another, they are confronted only in the context of individual transactions, not the overall cycle.
 
-[On the issue of circulation and value-formation: Important to note that he prefaces this with making clear that this is an abstract example]
+[On the issue of whether or not value is formed in circulation: Important to note that he prefaces this with making clear that this is an abstract example]
 
 _260_ What is happening here is a change in form, the value remains constant as the same quantity of social labour remains in the hand of the commodity-owner, in the form of the commodity or in the form of money; it is not an increase in value.
 
@@ -317,7 +307,7 @@ _263_ The formation of surplus value has nothing to do with whether a commodity 
 
 _269 'If prices actually differ from values, we must first reduce the former to the latter, i.e. disregard this situation as an accidental one in order to observe the phenomenon of the formation of capital on the basis of the exchange of commodities in its purity, and to prevent our observations from being interfered with by disturbing incidental circumstances which are irrelevant to the actual course of the process...The continual oscillations in prices, their rise and fall, compensate each other, cancel each other out, and carry out their own reduction to an average price which is their internal regulator'._
 
-**Chapter 6: The Sale and Purchase of Labour Power**
+*Chapter 6: The Sale and Purchase of Labour Power*
 
 _270_ Labour as a source of value.
 
@@ -329,45 +319,35 @@ _272 - 3_ The owner of labour power must also have no other commodity for sale..
 
 [Historical transition to capitalism]
 
-_274_ On the conditions which make capitalism possible: money, as we have seen, exists prior to the existence of capitalism propert, but commodity circulation is, at this time, limited in terms of how far it can develop'. 
+_274_ _'money, as we have seen, exists prior to the existence of capitalism proper, but commodity circulation is, at this time, limited in terms of how far it can develop'. _
 
 _'The historical conditions of its existence [capital] are by no means given with the mere circulation of money and commodities. It arises only when the owner of the means of production and subsistence finds the free worker available, on the market, as the seller of his own labour power. And this one historical pre-condition comprises a world's history'._
 
 The labour-time necessary for the production of a commodity determines the value of labour-power, it represents no more than a definite quantity of the average social labour embodied within it.
 
-[Althusser's reading of capital]
-
-_275_ On the moral and historical nature of wages
-
-_276 - 7_ The rate of wages, in additional to these historical and moral elements, is also determined by how much it costs for the worker to reproduce their own conditions of existence.
-
-_279_ Statement on the method of Capital:
-
-_'The consumption of labour-power is completed, as in the case of every other community, outside the market or the sphere of circulation. Let us therefore, in company with the owner of money and the owner of labour-power, leave this noisy sphere, where everything takes place on the surface and in full view of everyone, and follow them into the hidden abode of production'_
+_276 - 7_ Wages, in additional to historical and moral elements [E.P. Thompson writes on this], are determined by how much it costs for the worker to reproduce their own conditions of existence.
 
 **Chapter 7: The Labour Process and the Valorisation Process**
 
 *1. The Labour Process*
 
-_283_ We begin by considering labour as something outside any specific social or historical formation at first, as:
-
-_'a process between man and nature, a process by which man, through his own actions, mediates, regulates and controls the metabolism between himself and nature'._
+_283_ Marx begins the chpater by considering labour outside of any specific social or historical formation, as process by man through his own actions, mediates regulates and controls the metabolism between himself and nature.
 
 _284_ This activity is specific to man. This is not to say that animals don't work, but man is unique in that man envisions what he does or make ideally before he does so.
 
-Difference between raw materials and the 'free gifts of nature'
+Difference between raw materials and the 'free gifts of nature':
 
 _'All those things which labour merely separates from immediate connection with their environment are objects of labour spontaneously provided by nature, such as fish caught and separated from their natural element, namely water, timber felled in virgin forests, and ores extracted from their veins. If, on the other hand, the object of labour has, so to speak, been filtered through previous labours, we call it raw material'._
 
-_285_ As such, agriculture requires a relatively significant amount of social development
+_285_ As such, activities such as e.g.agriculture requires a relatively significant amount of social development
 
-_286_ _'Franklin therefore defines man as 'a tool-making animal'. Relics of bygone instruments of labour possess the same importance for the investigation of extinct economic formations of society as do fossil bones for the determination of extinct species of animals. It is not what is made but how, and by what instruments of labour, that distinguishes different economic epochs. Instruments of labour not only supply a standard of the degree of development which human labour has attained, but they also indicate the social relations within which men work'._
+_286_ Man is therefore a tool-making animal. Instruments of labour from antiquity are the fossil record of human civilisation, it is not what is made by how, and in what way that distinguishes distinct economic epochs.
 
-_287_ Considered as a creation of use-value, what happens in the labour process is that a use-value is created by adapting natural material to human need. This is done by labour being induced into the object. What appeared from the worker's point of view as exertion or 'unrest' is now a fixed, objective characteristic in an object. 
+_287_ Use-value is created by adapting natural material to human need. This is done by labour being induced into the object. What appeared from the worker's point of view as exertion or 'unrest' is now a fixed, objective characteristic in an object. 
 
-Use-values forged in previous exertions of labour power also enter into the labour process in the creation ofa new object, products are the output of labour but they are also inputs. 
+Use-values created in previous exertions of labour also enter into the labour process in creating of a new object; products can be the output of labour as well as the inputs. 
 
-_288_ They may form a crucial part of the resultant commodity, such as lead going into solder or they may be only accessories such as oil being used to light the factory. 
+_288_ These products may form a crucial part of the resultant commodity, such as lead going into solder or they may be only accessories such as oil being used to light the factory. 
 
 _289_ In encountering these objects the living labour power of the worker awakens the dead labour in these objects from the dead into real and effective use-value.
 
@@ -375,9 +355,9 @@ _290_ The use living labour puts them to is a form of consumption known as 'prod
 
 _291_ As the capitalist purchases labour power through the workers' wages he owns the labour-power as a commodity, and deploys it as he sees fit; i.e. its application to the dead labour of other products he owns, to imbue their dead labour with living labour to preserve their use-values for sale. 
 
-*2. The Valorisation Process*
+**2. The Valorisation Process**
 
-_294_ The preservation or use-values can require labour-power to be imbued in a product at a number of different places and times, picking the cotton and spinning the yarn can all be considered as different stages in the same labour process.
+_294_ The preservation of use-values can require labour-power to be imbued in a product at a number of different places and times, picking the cotton and spinning the yarn can all be considered as different stages in the same labour process.
 
 _296_ In the course of a given labour process, a specific quantity of labour has entered the resultant commodity, but only socially necessary labour time counts towards this value's creation.
 
@@ -395,9 +375,9 @@ _303_ Footnote regarding why slavery was inefficient in comparison w/ capitalism
 
 _305_ The concrete labour performed will become abstract.
 
-_[Footnote on skilled versus unskilled labour; suggests skilled labour is a kink that will be steadily transformed into unskilled labour over time.]_
+_[Footnote on skilled versus unskilled labour; argues skilled labour is a kink that will be steadily transformed into unskilled labour over time.]_
 
-**Chapter 8: Constant Capital and Variable Capital**
+*Chapter 8: Constant Capital and Variable Capital*
 
 _307_ Summary of the previous chapter.
 
@@ -407,7 +387,7 @@ _309_ Presents an example whereby a machine is developed that allows a spinner t
 
 It is possible for the exchange value of the cotton to fluctuate if this technological innovation is introduced unevenly across the market; if a capitalist has a stockpile of cotton, they will find that the exchange value of his cotton has decreased by ~85%.  
 
-_310_ While new value and old value are added or revived are different processes, they are added in proportion to one another.
+_310_ While the addition of new value and the reviving of old value are different processes, they are added in proportion to one another.
 
 _311_ Means of production transfer new value to the commodity but only insofar as they lose their use and exchange value:
 
@@ -415,7 +395,7 @@ _312_ they cannot transfer more value than they lose during the process by the d
 
 If a machine is worth €10,000 and wears out in 10,000 days it transfers one-thousandth of its value every day. The machine continues to take part in the labour process throughout this period but in a way that it is increasingly diminished. 
 
-_'Thus it appears that one factor of the labour process, a means of production, continually enters as a whole into that process, while it only enters in parts into the valorisation process'. _
+_'Thus it appears that one factor of the labour process, a means of production, continually enters as a whole into that process, while it only enters in parts into the valourisation process'. _
 
 _317_ Surplus value produces value over and above the value contained in the materials productively consumed in the course of the labour process.
 
@@ -425,9 +405,9 @@ Constant capital, or _C_, refers to capital turned into means of production; raw
 
 Variable capital, or _v_, is capital which does undergo a quantitative alteration of value. It reproduces the equivalent of its own value, is transformed into labour and produces an excess or surplus which varies in turn according to circumstances. 
 
-**Chapter 9: The Rate of Surplus Value**
+*Chapter 9: The Rate of Surplus Value*
 
-*1. The Degree of Exploitation of Labour Power*
+**1. The Degree of Exploitation of Labour Power**
 
 _322_ Proof that an increase in value is due to _v_, which sets _C_ = 0.
 
@@ -437,15 +417,15 @@ _324_ If we subtract new value produced from the total expended on the labour pr
 
 _327_ This rate of exploitation expresses how much of the working day is composed of socially necessary labour time.
 
-**Chapter 10: The Working Day**
+*Chapter 10: The Working Day*
 
-*The Limits of the Working Day*
+**The Limits of the Working Day**
 
 _341_ The precise length of the working day varies; it does not always align with the exact number of hours a worker requires in order to reproduce their own conditions of existence; its total length varies with the duration of surplus labour expended.
 
 It does however have hard limits, whether physical, mental or social, and these all vary according place, time, social, cultural development etc.
 
-_342_ The working day is therefore an important site of struggle as the capitalist has extended variable capital in the form of wages in order to assert their control over the workers' labour-power with a view to extracting a surplus over and above what he has paid for. (This is why the then-contemporary reformist notion of extracting a 'just price' for one's work is a nonsense)
+_342_ The working day is therefore a crucial site of struggle: the capitalist has extended variable capital in the form of wages in order to assert their control over the workers' labour-power with a view to extracting a surplus over and above what he has paid for. (This is why the then-contemporary reformist notion of extracting a 'just price' for one's work is a nonsense)
 
 *2. The Voracious Appetite for Surplus Labour. Manufacturer and Boyar*
 
@@ -469,7 +449,7 @@ _351_ [Footnote on the degregation of child labour]
 
 _353 - 4_ agus níos mó ar an abhar seo, with notes from a state board investigating the factories.
 
-_358_ Brief sidenote on how capitalism subsumes industries under feudalism: 'Capitalism is...at first indifferent towards the technical character of the labour process it seizes control of. At the outset, it takes it as it finds it'.
+_358_ 'Capitalism is...at first indifferent towards the technical character of the labour process it seizes control of. At the outset, it takes it as it finds it'.
 
 Concrete study of how the production process and the profit motive changes the output of bread produced in bakeries.
 
@@ -479,17 +459,19 @@ _366_ Amazing quote from Dr. Richardson:
 
 _'The occupation, instinctive almost as a portion of human art, unobjectivionable as a branch of human industry, is made by mere excess of work the destroyer of the man. He can strike so many blows per day, walk so many steps, breathe so many breaths, produce so much work and live an average, say, of fifty years; he is made ot strike so many blows, to walk so many more steps, to breathe so many more breaths per day, and to increase altogether a fourth of his life. He meets the effort; the result is, that producing for a limited time a fourth more work, he dies at 37 for 50'._
 
-*4. Day-Work and Night-Work. The Shift System*
+**4. Day-Work and Night-Work. The Shift System**
 
 _367_ Constant capital has to be absorbing labour power constantly; its lying fallow represents a loss for the capitalist and this is why the extension of the working day beyond its natural limits is in the capitalist's interests. Shift work or night-work are two potential solutions since it is impossible for the capitalist to exploit the same workers for an entire day.
 
-_373_ [Footnote with an amazing quote from Hegel: 'In a time so rich in reflection and so devoted to raisonnement as our own, he must be a poor create who cannot advance a good ground for everything, even for what is worst and most depraved. Everything in the world that has become corrupt, has had good ground for its corruption'.]
+_373_ [Footnote with an amazing quote from Hegel: _'In a time so rich in reflection and so devoted to raisonnement as our own, he must be a poor create who cannot advance a good ground for everything, even for what is worst and most depraved. Everything in the world that has become corrupt, has had good ground for its corruption'._]
 
-*5. The Struggle for a Normal Working Day. Laws for the Compulsory Extension of the Working Day, From the Middle of the Fourteenth to the End of the Seventeenth Century*
+**5. The Struggle for a Normal Working Day. Laws for the Compulsory Extension of the Working Day, From the Middle of the Fourteenth to the End of the Seventeenth Century**
 
 _375_ The moral dimension of the degredation capitalism visits on the working class, the contradiction between keeping the Sabbath holy and extending working hours.
 
-[Great footnote: ''The amount of work,' say Tremenheere and Tufnell, who drafted the general report, 'done by boys, youths, girls and women in the course of their daily or nightly spell of labour, is certainly extraordinary'. Meanwhile, late at night perhaps, Mr Glass-Capital, stuffed full with abstinence, and primted with port wine, reels home from his club, droning out idiotically, 'Britons never, never shall be slaves!']
+[Great footnote: 
+
+_''The amount of work,' say Tremenheere and Tufnell, who drafted the general report, 'done by boys, youths, girls and women in the course of their daily or nightly spell of labour, is certainly extraordinary'. Meanwhile, late at night perhaps, Mr Glass-Capital, stuffed full with abstinence, and primted with port wine, reels home from his club, droning out idiotically, 'Britons never, never shall be slaves!'_]
 
 [Slavery]
 
@@ -507,7 +489,7 @@ _'The establishment of a normal working day is therefore the product of a protra
 
 _383 - 411_ Historical argument about the relationship between private enterprise and the state with regard to the working day.
 
-*7. The Struggle for a Normal Working Day. Impact of the English Factory Legislation on Other Countries*
+**7. The Struggle for a Normal Working Day. Impact of the English Factory Legislation on Other Countries**
 
 _411_ The drive to extract surplus labour takes place first in those sections which were revolutionised by water-power, steam and machinery.
 
@@ -515,7 +497,7 @@ _411_ The drive to extract surplus labour takes place first in those sections wh
 
 _414_ On how the workers movement in the United States could not succeed until slavery was abolished
 
-**Chapter 11: The Rate and Mass of Surplus Value**
+*Chapter 11: The Rate and Mass of Surplus Value*
 
 _417_ How the mass of surplus value is calculated relative to the rate.
 
@@ -523,26 +505,105 @@ _418_ It is possible for the rate of surplus value to decrease while the mass of
 
 _419_ [Footnote explaining the idiocy of the idea of supply and demand as an explanation for price, propagated by 'the vulgar economist, who imagines, like an inverted Archimedes, that in the determination of the market price of labour by supply and demand he has found the fulcrum by means of which he cannot so much move the world, as bring it to a standstill'.]
 
+*Chapter 12: The Concept of Relative Surplus Value*
 
+_430_ Relative surplus value can be inceased by shortening the amount of labour time which is socially necessary to produce a particular commodity.
 
+_432_ As the reduction of socially necessary labour time is a consequence of the increase of surplus value the labour process is constantly revolutionised. 
 
+The increased surplus value re-couped from lengthening the working day is increased absolute surplus value. 
 
+The cheapening of a commodity by raising productivity in the sector in which it is produced resonates along the supply chain; a raising of the productivity in the production of thread will make shoes and clothes cheaper.
 
+As the raising of productivity will shorten the amount of necessary labour time required to produce a commodity, larger portion of the working day is expended on the production of surplus value, which means the capitalist can sell the commodity at a price higher than the social price. 
 
+_433_ This the mechanism behind market competition.
 
+_436_ Once the capitalists introduce the same innovation the advantage vanishes and the social price catches up.
 
+_437_ The absolute value of a commodity is irrelevant to the capitalist: only the surplus is important.
 
+*Chapter 13: Co-operation*
 
+_439_ One of the conditions most important for the development of manufacture is the concentration of workers in one place.
 
+It can be seen in the handicraft trades, with the primary difference between it and production under the guilds (presumably) is the number of people involved in the assembly of a particular commodity.
 
+_440_ When a certain minimum of workers are concentrated in one place individual differences or deviations of productivity reach an equilibrium and average each other out.
 
+_441_ This can only happen when a number of workers are employed by the same capitalist; this equalisation can occur when twelve workers toil for the same boss, but not if these twelve workers were toiling for six different bosses. 
 
+If one of these workers took significantly longer than the average socially necessary labour time to produce a commodity his labour would not count as average labour, it would be unsaleable or saleable only at less than the average value.
 
+_442_ Concentration also secures economy in the mans of production, a smaller part of their value is distributed to each product.
 
+_448_ Co-operation requires significant capital outlay in order to get started.
 
+Which means it requires the productive forces to have reached a particular level. 
 
+_449_ Concentration and co-operation also clarifies the antagonism that exists between capital and labour.
 
+_450_ The despotism integral to the capital / labour relationship assumes new forms, a new caste of foremen, supervisors and overseers develop.
 
+[Slavery]
+
+Footnote on how the USian frontier yeomanry, unlike slaves, do not require superintendence.
+
+_452_ Pre-capitalist forms of co-operation are characterised by common ownership over the means of production and tribal or communitarian social forms in general. Co-operation in the middle ages and colonial settlements have depended on coercion, enslavement.
+
+_453_ From the peasant and the artisan's perspective, co-operation is a novel invention of capitalist production.
+
+The productive power of capitalism is the productive power of concentrated labour, not the productive power of capital.
+
+*Chapter 14: The Division of Labour and Manufacture*
+
+**The Dual Origin of Manufacture**
+
+_455_ The period Marx argues is characterised by manufacture extends from the middle of the sixteenth century to the last third of the eighteenth.
+
+Its origin can be located firstly in the assembly of workers in a single workshop under a single capitalist, bringing together and rationalising a work process previously conducted by a number of individually employed handicraftsmen, e.g. tailors, locksmiths, glaziers, painters, gilders etc.
+
+_456_ It may also happen by retaining these individual roles within a single premises; over time these individual roles manifest themselves as a division of labour. 
+
+**2. The Specialised Worker and His Tools**
+
+_458_ This increases productivity.
+
+_470_ In every craft it takes control of manufacture creates a class of 'so-called unskilled labourers, a class strictly excluded by the nature of the handicraft industry'.
+
+Manufacture develops a specialty towards the standardisation or perfection of efficient production it does so at the expense of the workers' all-round human development (in a technical rather than spiritual sense).
+
+For the unskilled labourer, the cost of apprenticeship vanishes, for the skilled labourer it falls. 
+
+One exception to this rule comes in instances where the development of the labour process throws up new and unforseen practices which did not exist in handicraft. 
+
+_471_ Footnote about how Marx changed his view of tribal society, believing that the family was a development subsequent to the tribe.
+
+_472_ Account of spheres of production and exchange in tribal societies.
+
+_'The foundation of every division of labour which has attained a certain degree of development, and has been brought about by the exchange of commodities, is the separation of town from country'._
+
+_473_ Relatively large population an additional requirement for the productive capacity of labour in co-operation.
+
+[Footnote which anticipates Mike Davis' _Late Victorian Holocausts_]
+
+_475_ Adam Smith doesn't understand manufacture; the crucial distinction is that the individual artisan produces a commodity; in manufacture commodity are the common output of a mass of workers.
+
+_476_ The division of labour within the workshop depends on the despotic power the capitalist wields over their own premises. 
+
+The division of labour within society depends on the dispersal of means of production among many independent producers.
+
+Within the workshop definite amounts of workers will be subjected to definite functions in society outside the workshop the anarchic and unplanned nature of capitalist production prevails, these are necessary opposites of each other.
+
+[Line about tending towards equilibrium here I'm not sure of]
+
+_477_ pre-capitalist modes of society had planned economies and no division of labour.
+
+[Asiatic Mode of Production]
+
+_479_ _'The simplicity of the productive organism in these self-sufficing communities which constantly reproduce themselves in the same form and, when accidentally destroyed, spring up again in the same spot and with the same name - this simplicity supplies the key to the riddle of the unchangeability of Asiatic societies, which is in such striking contrast with their constant dissolution and refounding of Asiatic states, and their never-ceasing changes of dynasty. The structure of the fundamental economic elements of society remains untouched by the storms which blow up in the cloudy regions of politics._
+
+_487 - 8_ Series of riffs on use-value in ancient Athenian, Spartan society.
 
 
 
