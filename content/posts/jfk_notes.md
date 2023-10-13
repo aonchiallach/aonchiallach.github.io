@@ -124,39 +124,39 @@ _108_ Across the world the anti-communist policies and actions of the US state a
 
 While in Europe these activities were often more subtle, in Latin America US agents had freer hands; Rip Robertson, a Marine Corps officer was fired by the CIA for authorising one of his pilots to drop a bomb down the smokestack of a British cargo carrier.
 
-_111_ John Martino, a lowe-level  and a man named John Rosselli had been centrally involved in CIA activities in overthrowing the democratically elected government in Guatemala.
+_111_ John Martino and a man named John Rosselli had been centrally involved with the CIA in overthrowing the democratically elected government in Guatemala in 1954.
 
-Martino and Rosselli lived together in Miami and were using their mob connections to organise the assassination of Castro.
+After the Bay of Pigs and Martino's release from prison in Havana, he and Rosselli moved to Florida to organise Cuban-exile resistance. 
 
-After the Bay of Pigs and Martino's release from prison in Havana he and Rosselli moved to Florida to organise Cuban-exile resistance. 
+_116_ In doing so they forged connections with personnel in Lake Pontchartrain, where the CIA operated a base for training anti-Castro Cuban exiles.
 
-_116_ In doing so they worked with people with connections to Lake Pontchartrain, where the CIA operated a base for training anti-Castro Cuban exiles.
+Both Martino and Rosselli were convinced Castro was behind the assassination of JFK.
 
-Both Martino and Rosselli were convinced Castro was behind the assassination.
+This represented a problem for more senior figures in intelligence circles such as Jackson and CIA operative William Pawley, as they had worked with Martino in a separate operation to undermine Kennedy's Cuban-missile-crisis-settlement by seeking to expose supposed offensive weapon capacities in Cuba. 
 
-This represented a threat for more senior figures in intelligence circles such as Jackson and CIA operative William Pawley, as they had worked with Martino in an operation to undermine Kennedy's Cuban-missile-crisis-settlement by seeking to expose supposed offensive weapon capacities in Cuba. 
-
-According to Loran Hall, anoter anti-Castro activist, the real objective of this mission was to assassinate Castro and collect a bounty the Mafia had put on his head.
+According to Loran Hall, another anti-Castro activist, the real objective of this mission was to assassinate Castro and collect a bounty the Mafia had put on his head.
 
 _117_ Both Martino and Rosselli met Jack Ruby and worked with him in Havana in 1959 when they were smuggling casino profits out to the US.
 
 The House Committee concluded that Ruby was most likely serving as a middleman for gambling interests.
 
-_127_ One of the most misleading section of the Warren Report was a section insisting Ruby had no connections to the world of organised crime; Ruby was deeply integrated into a broad section of Dallas society; politicians, cops, judges, traffickers, prostitutes.
+_127_ One of the most misleading aspects of the Warren Report was its insistence that Ruby had no connections to the world of organised crime; Ruby was in fact deeply integrated into a broad section of Dallas society including politicians, cops, judges, traffickers, prostitutes.
 
-_128_ This section of the Warren Report was extensively re-written to downplay these connections, some witnesses were ignored, statements were edited. 
+_128_ This section of the Warren Report required extensive re-writing in order to downplay these connections, some witnesses were ignored, statements were edited. 
 
 _137_ In 1959 the FBI developed Ruby as a informant and reimbursed him for expenses. 
 
-_164 - 6_ The CIA collaborated with the Federal Bureau of Narcotics to utilise drug trafficking networks to fund the activities of anti-communist organisations and paramilitaries. [Gary Webb also writes on this]
+_164 - 6_ The CIA collaborated with the Federal Bureau of Narcotics to utilise drug trafficking networks to fund the activities of anti-communist organisations and paramilitaries. [Gary Webb writes on this]
 
-_167_ Offers the xample of a heroin case involving the anti-Communist and pro-Kuomintang Hip Sing tong gang, at a time when KMT guerillas were being supported by the CIA in Burma; the US press was told the heroin had come from Communist China.
+_167_ Offers the example of a heroin trafficking with the assistant of the anti-Communist and pro-Kuomintang Hip Sing tong gang, at a time when KMT guerillas were being supported by the CIA in Burma; the US press was told the heroin had come from Communist China.
 
-_173_ Union leader Jimmy Hoffa, with the assistance of the Justice Department, cops and the FBI led a number of campaigns against communists in a rival union which had defected to the more militant CIO; Hoffa was promoted to national leadership off the back of this campaign and also brought him into closer connection with mob elements in Chicago and a Waste Handler's Union in which Ruby headed a local.
+_173_ Union leader Jimmy Hoffa, with the assistance of the Justice Department, cops and the FBI led a number of campaigns against communists in a rival union which had defected to the more militant CIO; Hoffa was promoted to national leadership off the back of this campaign which also brought him into closer connection with mob elements in Chicago and a Waste Handler's Union in which Ruby headed a local.
 
-_174_ The Teamsters too were involved in CIA trafficking operations, an alliance which was initiated when the US government paroled a number of imprisoned Mafia figures and deported them to Sicily where they were used as an anti-Communist militia to help elect the CIA-favoured Christian Democratic party.
+_174_ The Teamsters were also involved in trafficking operations, an alliance which was initiated when the US government released a number of Mafia figures from prison and deported them to Sicily where they acted as an anti-Communist militia to help elect the CIA-favoured Christian Democratic party.
 
-Hoffa's first mob contact Frank Coppola, the godfather of Hoffa's foster son Chuck O'Brien was involved in a May Day massacre in Sicily in 1947 funded by former OSS chief William Donovan in which eight people were killed and 33 wounded. 498 people, mostly socialists and communists were killed the following year.
+Hoffa's first mob contact Frank Coppola, the godfather of Hoffa's foster son Chuck O'Brien, was involved in a May Day massacre in Sicily in 1947, funded by former OSS chief William Donovan in which eight people were killed and 33 wounded. 
+
+498 people, mostly socialists and communists were killed the following year.
 
 Former CIA officer Miles Copeland defended these operations in 1989: 'had it not been for the Mafia the communists would by now be in control of Italy'.
 
@@ -166,10 +166,7 @@ _243_ Dallas district attorney Henry Wade and Texas Attorney General Waggoner Ca
 
 _245_ In 1962 Oswald was able to get a job at a firm doing classified work for the Army Security Agency where he professed communist sympathies and retained complete access to classified FBI documents. 
 
-
 _295_ At the first meeting of the Warren Commission Allen Dulles handed out copies of a book which defined the parameters for the Commission's work, arguing that European assassinations were different from American ones; European assassins worked in conspiracies, American assassins acted alone. 
-
-
 
 
 
