@@ -34,17 +34,17 @@ Exchange value is quantitative; if you’re hungry and you have steel you could 
 
 In order to understand exchange value it is necessary to ignore its physical, tangible and sensuous aspects. From an exchange perspective it is not important if something is a table or a piece of yarn.
 
-*129* And as this value is quantitative, the decisive unit is the amount of labour it contains which ‘is measured by its duration…on the particular scale of hours, days, etc’.
+*129* And as this value is quantitative, the decisive unit is the amount of labour it contains which is measured in duration, hours, day, etc.
 
-This doesn’t mean that if a labourer takes six months to make a single shirt that shirt is worth millions, because while it is a quantitative measurement its also an abstract one; all human labour is considered here as a single homogeneous mass. Labour-power is ‘a socially average unit of labour power and acts as such, i.e. only needs, in order to produce a commodity, the labour time which is necessary on average’. 
+This does not mean that if a labourer takes six months to make a single shirt that shirt is worth millions, because while it is a quantitative measurement its also an abstract one; all human labour consists of a single homogenous mass which forms a socially average unit of necessary labour power on average. 
 
-So there is an equilibrium which is called socially necessary labour-time. And this average is the labour time required to produce any use-value under conditions of production normal for a given society, i.e. with the average degree of skill and intensity of labour regnant within it.  
+This equilibrium which is called socially necessary labour-time and it is the labour time required to produce any use-value under conditions of production normal for a given society, i.e. with the average degree of skill and intensity of labour regnant within it.  
 
-For example, the introduction of power-looms in England reduced the labour required to convert a given quantity of yarn into woven fabric. It did not make the labour process itself shorter, but the product of an individual hour of labour now represented half an hour of social labour, and fell to one half its former value.
+For example, the introduction of power-looms in England reduced the labour time required to convert a given quantity of yarn into woven fabric. It did not make the labour process itself shorter, but the product of an individual hour of labour now represented half an hour of social labour, and fell to one half its former value.
 
 _[Footnote in which Marx finds his theory anticipated in a document on Money written in the 1730’s]_
 
-*130* So the value of a commodity would remain static if the labour-time required for production remained static. But this changes with every variation in the productivity of labour, which is very much effected by advances in technology and machinery as well as:
+*130* The value of a commodity would remain static if the labour-time required for production remained static. But this changes with every variation in the productivity of labour, which is altered by advances in technology and machinery as well as:
 
 1. the worker’s average degree of skill
 2. the social organisation of the producers of production
@@ -53,7 +53,7 @@ _[Footnote in which Marx finds his theory anticipated in a document on Money wri
 
 _131_ The more productive labour is the less labour-time is required to produce an article, the less labour is crystallised in that article and the lower its value. 
 
-The value of a commodity therefore varies as the quantity and counter-intuitively the productivity of the labour which finds its realisation within the commodity. 
+The value of a commodity therefore varies as the quantity and, counter-intuitively, the productivity of the labour which finds its realisation within the commodity. 
 
 A thing can be a use-value without being a value, i.e. directly obtained without mediation through exchange, e.g. the peasant who grows crops which are directly consumed by himself or his feudal lord.
 
@@ -605,10 +605,314 @@ _479_ _'The simplicity of the productive organism in these self-sufficing commun
 
 _487 - 8_ Series of riffs on use-value in ancient Athenian, Spartan society.
 
+*Chapter 15: Machinery and Large-Scale Industry*
 
+**1. The Development of Machinery**
 
+_492_ Under capitalism machinery does not reduce the difficulty of labour; its function is to cheapen commodities by reducing the amount of necessary labour time.
 
+_494_ A machine consists of three parts:
 
+i) the motor mechanism, such as a steam or electro-magnetic engine, which drives the machine as a whole
+ii) the transmitting mechanism, such as shafts, pulleys, straps or ropes, which regulate the motion and changes its form when necessary
+iii) the tool or working machine, which is the same apparatus or tool as a handicraftsman or manufacturing worker might use.
+
+_495_ Some machines are a merely slightly altered version of old handicraft tools such as the power-loom, they may also be completely unaltered, such as knives in a chopping machine.
+
+The same operations are being performed as in manufacture, but the machine has taken the place of a mere implement. In this way the number of tools which can be brought into play is independent of the organic limitations of the handicraftsman, who can only use as many tools as he or she can manipulate with their hands, limbs, etc.
+
+_496_ It is the first component, the motor mechanism that underwent the most significant transformation in the course of the industrial revolution.
+
+_497_ Motors did not bring the industrial revolution about in and of themselves; the steam-engine was invented towards the end of the seventeenth century. Their invention rather made a revolution necessary as an increase in machine size required more power. 
+
+_504_ As demand for machines increased and the machine-making industry developed the division of labour deepens tending towards the abolition of the handicraft and manufacturing systems.
+
+In this way industry overthrows its foundation once it attains to a specific level of development as the machine's productive capacity is no longer constrained by the limits of personal strength and skill. 
+
+_513_ Whenever it costs as much labour to produce a machine as is saved by the employment of that machine, all that has taken place is a movement of labour from one place to another; the total labour required to produce a commodity has not been reduced, the productivity of labour has not been increased.
+
+_515 - 7_ Proof that the labour objectified in the machine is much lower in quantity than the living labour it replaces.
+
+Whether or not the capitalist will adopt a particular machine is therefore determined by the difference between the value of the machine and the value of the labour-power replaced by it; cheaper labour is the only reason a capitalist will use a machine.
+
+This is because the capitalist is making money from exploiting surplus labour, not through savings obtained through mechanisation; the machine does not produce value.
+
+In some branches of industry a situation might arise in which wages fall below the value of labour-power, rendering machinery superfluous. 
+
+For example, yanks invented a stone-breaking machine that the Brits did not adopt because the men who carry out this work is paid for such a small portion of labour it would not be worth the investment. 
+
+The distinction between the necessary and surplus sections of the day can vary significantly, due to geographic, temporal or industrial factors even if the difference between the quantity of labour needed to produce the machine and the total quantity of labour replaced by it remains constant.
+
+_518_ Due to machines' capacity to free production of all limitations regarding skill, strength etc., machinery throws all members of the family onto the labour market, thereby depreciating it. 
+
+To purchase the labour-power of a whole family of four might cost more than it formerly did to purchase the labour-power of one family member but four days' labour takes the place of one day and the price falls in proportion to the excess of the surplus labour of four over the surplus labour of one.
+
+In this way machinery exploits more people and increases the extent of exploitation.
+
+_Footnote on the feminisation of the labour force_
+
+_519_ On patriarchal relations within the family under capitalism.
+
+_526_ Machinery is the most powerful means of lengthening the working day beyond all natural limits. 
+
+_527_ The productivity of machinery is inversely proportional to the value transferred to it by the product. The longer it functions the greater the mass of products over which the value transmitted by the machine is spread and the smaller the portion of that value added to each single commodity. 
+
+The active lifetime of the machine is dependent on the length of the working day, the duration of the daily labour process and the number of days for which the process is carried on.
+
+The amount of deterioration suffered by a machine does not correspond to the length of time it has been in use. 
+
+_528_ A machine deteriorates in three ways: 
+i) use, which is proportional to the use of the machine
+ii) lack of use, which is inversely proportional
+iii) loss of exchange value through better machines of the same kind being produced more cheaply.
+
+In the third instance value is no longer determined by the necessary labour-time objectified within it but the labour-time necessary to reproduce it or the better machine. 
+
+_529_ Increasing the number of workers being exploited requires increasing the quantity of raw materials and the amount of constant capital laid out in machines or buildings. 
+
+The lengthening of the working day, by contrast, permits an expansion of the scale of production without any change in the amount of capital invested in machinery and buildings.
+
+In this second instance, surplus-value increases and the outlay necessary to obtain it diminishes.
+
+Machine production ties capital to a form which is constantly capable of valorisation but on the other hand loses use-value and exchange value whenever it is not in contact with living labour; every hour the fixed capital is not being used the capitalist may be said to be losing money.
+
+_530_ As machinery comes into general use in a particular section of production, the social value of the machine's product sinks to a general level. 
+
+Surplus value arises only from variable capital.
+
+The amount of surplus value depends on the rate of surplus value and the number of workers simultaneously employed while the rate is determined by the relative duration of the day which is taken up by necessary labour versus surplus labour performed in the course of the working day.
+
+_531_ The number of workers depends on the ratio of variable to constant capital.
+
+However much machinery might increase surplus labour at the expense of necessary labour by raising its productive power, it attains this result only by diminishing the number of workers employed by a given amount of capital, turning formerly variable capital into constant. 
+
+This comes into view when a machine becomes general in industry; capitalists will try to extend the working day to secure compensation for the decrease in the relative number of labourers exploited by increasing not only relative but also absolute surplus labour. 
+
+_532_ Hence machinery sweeps away all customs and moral laws restricting the working day. This is how the instrument that can reduce labour time to an extent that is historically unprecedented becomes the means of turning the worker and his family into slaves at capital's disposal. 
+
+_533_ As machinery becomes generalised the longer working day is compatible only with a lower degree of intensity; the higher intensity labour is only compatible with a shorter working day, as was seen after legislation was introduced to restrict the working day's length in England.
+
+_534_ Capital attempts to increase relative surplus value by increasing worker productivity. The same amount of labour is exerted, but this unchanged amount of exchange value is spread over more use-values, hence the value of each single commodity falls. 
+
+The reduction in working hours gives an immense impetus to the development of productivity; a denser working day crystallises more hours of labour.
+
+_545_ One of the key differences between manufacture and industry is the machine transfers the worker's skill to the machine, separating them it from human labour power.
+
+This destroys manufacture's hierarchy of specialised workers; the work to be done in an industrial factory is brought down to an identical level, with the occasional exception of those who maintain the machine and thereby retain some form of specialised technical or engineering acumen.
+
+_546_ Workers can therefore be continually replaced without any interruption to the production process.
+
+_554_ The antagonism that exists between capital and labour is present under manufacture and legible in e.g. protest action characterised by the smashing of machines but it reaches a new, higher stage here. 
+
+_556_ The new colonial markets put pressure on urban workers as well as the rural population who had been kicked off their land as feudalism declines. 
+
+_557_ The division of labour reduces a worker's role on the market to the level of a tool-handler; when it becomes the job of the machine to handle the tool the use-value of the worker's labour power vanishes, along with its exchange value.
+
+This section of the working class is thereby rendered superfluous by machinery; flooding more accessible sections of the labour market with their labour power and thereby bringing about a general decline in the price of labour-power in general.
+
+_559_ This antagonism is clearest when new machinery enters into competition with handicrafts or manufactures handed down from former times, but the substance of the relationship is analogous when improvements are introduced in an industrial context.
+
+_561_ Historical material on the effects of the American civil war on the cotton market.
+
+_563_ Further material on how workers recognise this antagonism and respond to it; how the introduction of an invention for dressing warps in the printing industry led to a strike.
+
+_565_ Proof that demonstrates that workers thrown off the labour market by machines are not re-meployed, against arguments to the contrary provided by bourgeois economists.
+
+_570_ Machinery might increase employment in certain sectors but in overall terms it puts labourers out of jobs and does not compensate them for this loss.
+
+We could only say that the amount of labour required to produce a commodity had been diminished if the total quantity of an article produced by a machine was less than or equal to the amount of an article produced by handicraft or manufacture but in fact the total quantity of the article produced by machinery with a diminished number of workers exceeds that amount by orders of magnitude; we can see this by the increase of raw materials which industrial production made necessary. 
+
+The further machinery extends in a given industry the more production is increased in other industries which provide the first sector with means of production.
+
+_571_ Machinery greatly increased the number of men working in coal and metal mines (Marx notes that at time of writing this trend is reversing as mining becomes more mechanised). 
+
+The development of a cotton spinning machine promoted the cotton industry in the US and the slave-trade as well as slave-breeding.  
+
+_572_ Similarly transformed Ireland from arable land into pasture as well as reducing its population by half.
+
+As machinery increases the mass of raw materials, half-finished products and instruments of labour, these processes are split into innumerable sub-divisions. The division of labour therefore occurs in industrial production to a far greater extent than in manufacture. 
+
+_573_ The relatively diminished number of workers required to produce the means of subsistence and the increasing wealth of particular social strata begets new markets for luxury goods; a larger potion of the social product is converted into surplus product and a larger portion of this is reproduced and consumed in a multitude of refined shapes.
+
+Colonial markets also diversify production; not only are greater quantities of foreign luxury articles exchanged for home products but a greater mass of raw materials, ingredients and half-finished articles from overseas are used as means of production in domestic industry.
+
+New branches of production are opened up in infrastructural investment such as canals, docks, tunnels, bridges etc.
+
+_574_ As does non-productive employment for the working class; in services, as domestic servants etc. 
+
+_575 - 7_ Orthodox bourgeois economists defend the horrors industrialisation unleashes on the working class by arguing that it increases the number of jobs but in fact the numbers employed decrease; where increases are seen they primarily consist of women or people under 18. 
+
+_578_ When industrial production first becomes generalised capitalists recoup historically unprecedented profits. Additional social capital is constantly being created and seeking new areas of investment. 
+
+_579_ Once the factory system has reached a point of maturity, Marx defines this as the point at which its machinery is being produced by machinery in the metallurgical or mining industries and the means of transportation have been revolutionised, its only limitations are the availability of raw materials and effective demand.
+
+[Imperialism]
+
+Machinery dramatically increases the amount of available raw materials; their cheapness provide weapons for the conquest of foreign markets (both figurative and literal) which forcibly convert them into fields for the production of raw materials; in this way India is compelled to produce cotton + wool for England.
+
+Foreign lands are also colonised and converted into settlements for growing raw materials for the benefit of industry in the mother country, e.g. Australia.
+
+_580_ This converts one part of the globe into a chiefly agricultural field of production for supplying the other part, which remains industrial, dividing labour on an international or global scale.
+
+This also creates the possibility of over-production; industry becomes prone to a series of periods characterised by alternation from moderate activity, prosperity, over-production, crisis, stagnation, unemployment (feverish production -> glut on the market -> contraction of the market -> crippling of production)
+
+_588_ Example of the state backing capitalist production by preventing workers from emigrating.
+
+_589_ Example of the transition from handicraft to manufacture to industry in the English ribbon industry.
+
+_591_ Until the strength of the worker becomes autonomous of the production process emoloyment of children in industry would not have been possible. 
+
+_602 - 3_ Some examples of the transitional forms which develop in particular industries, which in turn determine which machines predominate in in these sectors, the period of time it has been in operation, the condition of the workers, the degree to which manufacture, handicrafts or domestic industry predominates.
+
+A concrete examination of the dress industry reveals that machinery subsists within a system of manufacture.
+
+This tendency does not, of course, conceal the tendency which is operating to transform them into the factory system proper; steam power delivers the final blow.
+
+_604_ How the regulations introduced by the Factory Acts further accelerates industrialisation and the introduction of steam power.
+
+_609_ Capitalists will regard any attempt at regulating their activity via the state as a barrier and obstructed the activity of factory inspectors.
+
+_611_ Though the acts have been successful in offering partial redress to seasonal cycles of employment and unemployment, spreading the work more evenly throughout the year inadequacies still prevail, as in the Irish flax industry where maimings and fatal injuries remain common.
+
+_612_ Against the dogma of free trade, capitalism impedes all rational improvement past a certain point; an obligation to provide sufficient ventilation space to ensure the workers remain healthy would strike at the very logic of capital accumulation.
+
+**Chapter 16: Absolute and Relative Surplus Value**
+
+_643_ As labour becomes increasingly social each component part of the universal totality of labouring power becomes increasingly separated from every other part.
+
+_644_ Bourgeois economists have historically equated the production of surplus value with productivity in general. As such their conception of productivity has varied in line with the variations in surplus value.
+
+_645_ Absolute surplus value refers to the extension of the working day.
+
+This is the starting point of the capitalist system, and also the point at which relative surplus-value becomes possible, as this requires that the working day be divided into two parts - one in which necessary labour is taking place and another in which surplus value is being generated.
+
+Relative surplus value is increased by reducing the amount of socially necessary labour. The increase in the amount of absolute surplus being generated depends on the length of the working day, while an increase in relative surplus requires the revolutionising of the technical processes of labour. 
+
+This is the essence of the capitalist mode of production and it develops or is extended firstly through formal subsumption of capital under labour and secondly through real subsumption.
+
+_[Historical transition to capitalism]_
+
+While at early stages of capitalist construction surplus value may not be extracted through compulsion or force, capital has not yet subordinated labour, or developed total control over the labour process.
+
+One example may be the merchant or usurer who steps between independent producers and the market in the middle ages. Though this is not capitalism, Marx suggests it may be a hybrid form and lay the necessary foundations.
+
+Absolute surplus value may be produced under formal subsumption; all that is necessary here is for a handicraftsmen who previously worked for themselves or apprentices of a master to become wage labourers under a capitalist. 
+
+_646_ Methods of increasing relative surplus-value are at the same time means of securing increases in absolute surplus value, as the extension of the working day is a central fixture of large-scale industry.
+
+The capitalist mode of production ceases to be a mere means of the generation of surplus value once it has conquered an entire branch of industry and especially when it has captured all of the most important branches.
+
+It only continues to be the exceptional method of generating surplus value insofar as it seizes on industries only formally subordinate to capital and secondly insofar as these industries already seized are further revolutionised.
+
+The distinction between relative and absolute surplus value may appear illusory, as relative surplus value is at the same time absolute; it requires the worker to work beyond those limits of the working day which are necessary to reproduce the workers' condition of existence, and secondly absolute is relative; it requires as it requires the development of the productivity of labour, allowing necessary labour time to be restricted to a specific portion of the day.
+
+But in fact this similarity is illusory and this is clear once the imperative is felt to elevate the rate of surplus value. 
+
+Assuming labour power is paid for at its value, if productivity of labour and its normal degree of intensity is given, its rate can only be raised by increasing the length of the working day, in absolute terms. 
+
+If the length of the working day is given, the rate of surplus value can be raised only by a change in the relative magnitudes of the working day, necessary as compared with surplus labour. 
+
+If wages are not to fall below the value of labour-power, this change presupposes a change in either the productivity or the intensity of labour. 
+
+_647 - 8_ Notes on the nature of civilisation in pre-history and leisure time in satisfying social and physical requirements - Egyptian civilisation had the scope to develop to the extent that it did because of the extent of leisure time that was available once physical needs had been satisfied in that place and time. 
+
+_649_ This does not mean that capitalism is established wherever the soil is most fertile; there is a line + a footnote about how the ready satisfaction of physical needs can constrain development as it makes people careless and proud rather than vigilant and abstemious.
+
+It is the variety of natural products which form the basis of the  division of labour, the necessity of bringing a natural force under society's control. Examples provided include the development of irrigation in India, the regulation of water in Holland and Egypt. 
+
+_650_ Favourable natural conditions offer only the possibility, not the guarantee of surplus; natural requirements themselves vary from place to place. 
+
+_651_ Surplus time may be available but whether or not this leisure time is deployed productively depends on these contextual factors. 
+
+In this way capitalism is historically and socially determined; surplus is not an inherent quality.
+
+_652 - 654_ Critiques of Mill and Ricardo.
+
+*Chapter 17: Changes of Magnitude in the Price of Labour-Power and in Surplus-Value*
+
+_655_ The value of labour-power is determined by the value of the means of subsistence.
+
+Subsistence requirements vary according to social, historical economic factors. 
+
+The cost of developing this power is important, as is the natural diversity of labour-power, the difference between the labour-power of men as compared with women and children, these are all crucial in opening up the vast differences in the costs of reproducing the worker and his family. 
+
+Relative magnitudes of surplus values therefore depend on 
+
+i) the length of the working day or the extensive magnitude of labour
+ii) the normal intensity of labour or its intensive magnitude
+iii) the productivity of labour, whereby the same quantity of labour yields, in a given time, a greater or lesser quantity of the product.
+
+**Chapter 19: The Transformation of the Value (and respectively the price) of Labour-Power into Wages**
+
+_675_ Bourgeois economists regard the price of labour as its value, but the value of a commodity is the amount of socially necessary labour-time it took to produce it. 
+
+_676_ A direct exchange of objectified labour power in money for labour-power would represent a violation of the law of value; in a capitalist society, this is not the way things are done.
+
+If the worker did receive the value of his labour-power in the form of money it would follow that the worker was producing no surplus, which is also incompatible with the capitalist mode of production. 
+
+Nor is it the case that surplus arises out of the difference between wages and recouped surplus.
+
+_677_ The notion of a 'value of labour' is in fact an abstraction, labour has no value, rather value is immanent to it. 
+
+_678_ Supply and demand therefore cannot explain the value of labour, even when we take an ideal average across an entire economy over a specific length of time, because a wage is just an accidental value or quantity. It cannot be calculated as a mere cost of production as some attempted to do.
+
+_680_ Part of the reason for this is that it is part of the capitalist mode of production that it is never clear that the worker is working for free; surplus and necessary labour are obfuscated in the labour process.
+
+_681_ Wages fluctuate independently of the value of labour-power, which depends on broader factors.
+
+_682_ The capitalist doesn't perceive this difference either; it is rather in the nature of the market, wherein the capitalist buys as cheaply as possible and seels as high as possible; it appears to them that this is the source of thier profits. 
+
+_[Slavery]_
+
+Under slavery the advantage / disadvantage of labour-power above / below the average falls on the slaveholder, while under capitalism it rebounds to the worker.
+
+**Chapter 20: Time-Wages**
+
+_683_ A worker may receive vastly different sums of money for the same quantity of labour.
+
+_684_ The average price of labour is the average value of labour-power divided by the average number of hours in the working day.
+
+In this sense the price of labour is not the same as wages; they may move independently of one another.
+
+_685_ However as a general law it follows that given the amount of daily, weekly labour, the daily weekly wage depends on the price of labour, which itself varies either with the value of labour-power or with the divergences between its price and its value. 
+
+Given the price of labour, on the other hand, the daily or weekly wage depends on the quantity of labour expended weekly or daily.
+
+The unit of measurement for time wages, the price of the working hour, is the value of a day's labour power divided by the number of hours in the average working day.
+
+This is not a tautology because it indicates the amount of hours the worker has to labour in order to reproduce their conditions of existence. If their minimum working hours do not attain a certain threshold surplus is generated, but not the amount of value required to allow the worker to reproduce their own conditions of existence.
+
+_686_ This is how underemployment, as opposed to over-work can have deleterious consequences for the worker.
+
+_689_ The artificial shortening of the working day increases competition between workers, allowing the employer to reduce the price of labour (with the average price of the total number of weekly hours decreasing) and thereafter reduce wages, which allows him to increase the hours of work.
+
+**Chapter Twenty-One: Piece-Wages**
+
+_694_ Quantifying the amount of value in a commodity generated in a context in which the worker is being paid according to output is not a matter of calculating duration but rather the amount of products in which the labour has been embodied during a given time.
+
+The quality of the output is also an important factor in the payment of piece-wages, a certain average standard must be maintained. In this way piece-wages become an important site of struggle between the worker and the capitalist regarding standards and remuneration.
+
+_695_ It is also a form of work in which it is straightforward for various kinds of capitalist parasites to interpose themselves between the worker and the capitalist, as in the 'sweating system'.
+
+It is in the interests of the workers to strain his labour power as intensely as possible, this also makes it easier for the capitalist to raise the intensity of labour.
+
+_696_ These individual differences between strength and skill of the workers form an average, as in wage labour.
+
+**Chapter 22: National Differences in Wages**
+
+_701_ Calculating how these laws governing the transformation of labour-power into the price of labour power and then into wages function on a national level requires bearing in mind the level of subsistence requirements or what factors determine the changes in the value of labour power; subsistence according to historical and social developments, cost of training to workers, role of women and children etc.
+
+_702_ The average intensity of labour varies from nation to nation and expresses itself in greater or lesser amounts of money.
+
+As each nation arrives at an average labour, this happens at an international scale also.
+
+Law of value is further distorted on an international level in instances where the more productive nation is not compelled to lower the prices of their commodities by competition to their value.
+
+Capitalist production rises in proportion with the intensity and productivity of labour. Different quantities of commodities of the same type, produced in different countries at the same working time therefore possess unequal national values which express themselves in different prices.
+
+The relative value of money will therefore be less in a nation with a relatively developed capitalism than those which are less developed. Nominal wages will threfore be higher in the former than the latter, which is not to say that their purchasing power will extend further.
+
+_705_ Example of a bourgeois economist who seeks to link wages with productivity, and argue that the state exerts a distorting influence on the market, rather than, as Marx argues, functions as a guarantor. 
 
 
 
